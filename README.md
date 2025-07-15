@@ -62,7 +62,7 @@
 
 ## 🚀 배포 링크
 
-🔗 [(https://cormery.vercel.app)](https://personal-space-eta.vercel.app/)
+🔗 [(https://www.cosmery.store/)](https://www.cosmery.store/)
 
 ---
 
